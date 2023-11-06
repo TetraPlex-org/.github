@@ -11,6 +11,7 @@ Watch our YCOMBINATOR W24 1 minute pitch:
 We are open source and open to collaborators henceforth additional features maybe raised as issues using this [feature template](.github/ISSUE_TEMPLATE/feature_request.md).
 
 Watch our MRD music video
+
 [![Money Money Market Research](http://img.youtube.com/vi/8PRcTHBLvqA/0.jpg)](http://www.youtube.com/watch?v=8PRcTHBLvqA "Money Money Market Research")
 
 then check out our [MRD](https://github.com/TetraPlex-org/central/blob/main/Documentation/MRD.md)
